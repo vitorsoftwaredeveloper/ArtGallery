@@ -46,3 +46,10 @@ Você criará um **app Android** para exibir imagens, que podem ser:
 - Qualquer outro tipo de imagem de sua preferência
 
 ---
+
+FINAL RESULT:
+
+https://github.com/user-attachments/assets/5eba520f-72ea-4dbd-9a15-60ca82493369
+
+
+
