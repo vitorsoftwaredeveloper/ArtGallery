@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Art Gallery</string>
+    <string name="clara_mendonca">"Amanhecer Infinito"</string>
+    <string name="eduardo_vilar">"Fragmentos de Silêncio"</string>
+    <string name="sofia_nogueira">"Geometria do Vento"</string>
+    <string name="rafael_tavares">"Memória Líquida"</string>
+    <string name="lucia_ferraz">"Ecos da Terra Antiga"</string>
+
+    <string name="clara_mendonca_ds">Clara Mendonça (2021)</string>
+    <string name="eduardo_vilar_ds">Eduardo Vilar (2017)</string>
+    <string name="sofia_nogueira_ds">Sofia Nogueira (2020)</string>
+    <string name="rafael_tavares_ds">Rafael Tavares (2019)</string>
+    <string name="lucia_ferraz_ds">Lúcia Ferraz (2022)</string>
 </resources>
