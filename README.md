@@ -47,7 +47,7 @@ Você criará um **app Android** para exibir imagens, que podem ser:
 
 ---
 
-FINAL RESULT:
+## FINAL RESULT:
 
 https://github.com/user-attachments/assets/5eba520f-72ea-4dbd-9a15-60ca82493369
 
